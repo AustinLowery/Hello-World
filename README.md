@@ -1,2 +1,5 @@
 # Hello-World
-Created for the purpose of getting a feel for GitHub.
+
+To those reading,
+this is a thing that you're reading currently in case you were unaware.
+The fact that you are reading this means you are literate, so congratulations.
